@@ -3,13 +3,9 @@ the function is approximated as a constant, forming the step function. This simp
 as it involves multiplying the constant function value by the width of the segment.
 In our code we're going to implement 3 methods: 
 <br>
--Midpoint rule
+  -Midpoint rule
 <br>
-
--Trapezoidal rule
+  -Trapezoidal rule
 <br>
-
--Simpson's rule
+  -Simpson's rule
 <br>
-
--
